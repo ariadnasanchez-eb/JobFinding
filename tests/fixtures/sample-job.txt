@@ -1,0 +1,23 @@
+Senior Technical Program Manager — Payments
+Company: Finlane (fintech scale-up)
+
+We are looking for a Senior Technical Program Manager to lead cross-team delivery of our payments platform.
+This is a hybrid role based in Barcelona, with 2 days a week in the office.
+
+What you'll do
+- Drive programs across 5 engineering teams from roadmapping to launch.
+- Own stakeholder management with product, compliance and finance.
+- Run agile delivery rituals and OKRs for the payments group.
+
+What we're looking for
+- 8+ years of experience in software delivery, including people management or tech lead experience.
+- Strong program management and stakeholder management skills.
+- Experience with payments or fintech.
+- Hands-on knowledge of AWS and microservices.
+- Fluent English.
+
+Nice to have
+- Experience with SQL and product analytics.
+- Spanish.
+
+Salary: €75,000 - €90,000 gross per year.

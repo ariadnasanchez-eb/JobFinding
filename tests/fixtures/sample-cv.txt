@@ -1,0 +1,29 @@
+Laura Gómez
+Engineering Manager · Barcelona, Spain
+laura.gomez@example.com · +34 612 345 678 · https://www.linkedin.com/in/laura-gomez-example
+
+SUMMARY
+Engineering Manager with 12 years of experience building B2C and marketplace products. Leads cross-functional teams, works closely with product on roadmapping and product discovery, and cares about delivery and people management.
+
+EXPERIENCE
+Engineering Manager, TicketFlow (events marketplace) — Barcelona — 2019 to present
+- Managed 3 teams (18 engineers) responsible for checkout and refunds.
+- Led the refunds self-service project with product: automated refund requests grew 105% and support tickets dropped 30%.
+- Introduced OKRs and an agile delivery process; release frequency went from monthly to weekly.
+- Hiring and mentoring: hired 9 engineers, promoted 4 to senior.
+
+Tech Lead, ShopNow (e-commerce) — Madrid — 2015 to 2019
+- Led a team of 6 building the payments platform on AWS with Java and Kubernetes.
+- Reduced checkout latency by 40% through system design changes to microservices.
+
+Software Engineer, DataPoint — Madrid — 2012 to 2015
+- Built product analytics dashboards with SQL and Python.
+
+EDUCATION
+BSc Computer Engineering, Universitat Politècnica de Catalunya, 2012
+
+SKILLS
+Leadership, people management, hiring, mentoring, agile, scrum, OKRs, roadmapping, product discovery, stakeholder management, Java, Python, SQL, AWS, Kubernetes, microservices, system design, payments
+
+LANGUAGES
+Spanish (native), Catalan (native), English (C1)
